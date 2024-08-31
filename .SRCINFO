@@ -1,6 +1,6 @@
 pkgbase = android-display-utils
 	pkgdesc = Android display utilities.
-	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1.1
 	pkgrel = 1
 	url = https://github.com/themartiancompany/android-display-utils
 	arch = any
@@ -8,8 +8,8 @@ pkgbase = android-display-utils
 	checkdepends = shellcheck
 	makedepends = make
 	depends = bash
-	source = android-display-utils-0bfd781a88581b6029514451f02974af7bbc8ad0.zip::https://github.com/themartiancompany/android-display-utils/archive/0bfd781a88581b6029514451f02974af7bbc8ad0.zip
+	source = android-display-utils-cf8e1b1f476a95cfb42ba8b796a6cc6b8392e39e.zip::https://github.com/themartiancompany/android-display-utils/archive/cf8e1b1f476a95cfb42ba8b796a6cc6b8392e39e.zip
 	validpgpkeys = 97E989E6CF1D2C7F7A41FF9F95684DBE23D6A3E9
-	sha256sums = ede3f7a5a251ab402ee9bba930270e60ef105299cef6eead06537f026ad5e065
+	sha256sums = e4a3513fea50f9c0b1e06b2f41839cf9d3a60f5d733e43643775113bda8aeade
 
 pkgname = android-display-utils
