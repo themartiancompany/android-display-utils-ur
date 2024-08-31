@@ -6,7 +6,7 @@
 _offline="false"
 _git="false"
 pkgname=android-display-utils
-pkgver=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1.1
+pkgver=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1.1.1
 _commit="cf8e1b1f476a95cfb42ba8b796a6cc6b8392e39e"
 pkgrel=1
 _pkgdesc=(
